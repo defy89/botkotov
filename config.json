@@ -3,7 +3,7 @@
   "ns": "Ярослав Братишкин",
   "token": "89044cf1169320887febf920f8fd49dfe49d1eb240f926ed1e71e3047dd69aeed8950bfa23cc47500345e",
   "delay": 61000,
-  "buy": 6000000000,
+  "buy": 60000000,
   "cats": 111,
   "users": [],
   "link": "https://botkotov.herokuapp.com/"
